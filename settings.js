@@ -25,7 +25,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "𝘀𝘆𝗲𝗻𝘇𝗸𝘆 | 𝗧𝗶𝗸𝘁𝗼𝗸 𝗩𝟵" //namabot kalian
+global.botname = "𝘀𝘆𝗲𝗻𝘇𝗸𝘆 𝗯𝗼𝘁𝘇 𝘃𝟵" //namabot kalian
 global.ownername= "Syenzky" //nama kalian
 global.myweb ="https://instagram.com/syenzky" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/akiravfx._" //bebas asal jan hapus
@@ -40,7 +40,7 @@ global.ownernomerr = "+60109561479" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.packname = '𝘀𝘆𝗲𝗻𝘇𝗸𝘆 𝘆𝗮𝗻𝗴 𝗯𝘂𝗮𝘁 𝗵𝗲𝗵𝗲' //sticker wm ubah
+global.packname = '𝘴𝘺𝘦𝘯𝘻𝘬𝘺𝘣𝘰𝘵𝘻𝘻 𝘷9' //sticker wm ubah
 global.author = '𝘀𝘆𝗲𝗻𝘇𝗸𝘆 !' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
